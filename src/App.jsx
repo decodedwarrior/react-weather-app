@@ -11,7 +11,7 @@
 
 // export default App;
 import React, { useState } from 'react';
-import './app.css';
+import './App.css';
 
 const App = () => {
   const [city, setCity] = useState('');
