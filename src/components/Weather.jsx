@@ -8,7 +8,7 @@ import wind_icon from '../assets/wind.png';
 import clear_icon from '../assets/clear.png';
 
 const Weather = () => {
-    const [weatherData, setWeatherData] = useState(null);
+    const [weatherData, setWeatherData] = useState(false);
     const [city, setCity] = useState("London");
 
     const search = async (city) => {
