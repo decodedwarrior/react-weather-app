@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Rubik+Glitch+Pop&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Rubik+Glitch+Pop&display=swap');
 *{
   margin: 0 ;
   padding: 0 ;
@@ -10,8 +10,8 @@
    min-height: 100vh;
    display:grid;
    background:linear-gradient(#cfefcf,#e2d4ff) ;
-}
- /* .app {
+} */
+ .app {
   text-align: center;
   padding: 2rem;
   background: linear-gradient(to right, #232526, #414345);
@@ -46,4 +46,4 @@ button {
 
 .error {
   color: red;
-} */
+}
